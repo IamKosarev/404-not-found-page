@@ -1,0 +1,38 @@
+body {
+  font-size: 18px;
+}
+
+section {
+  max-width: 345px;
+}
+
+.header {
+  left: 24px;
+  top: 20px;
+  font-size: 24px;
+}
+
+.content {
+  display: block;
+}
+
+.img {
+  width: 286px;
+  height: 238px;
+  margin: 0 auto;
+}
+
+.message {
+  width: 350px;
+}
+
+.message h1 {
+  font-size: 48px;
+  line-height: 95px;
+  line-height: 71px;
+}
+
+.message p {
+  width: 328px;
+  margin-top: 30px;
+}
